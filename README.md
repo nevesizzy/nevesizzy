@@ -1,1 +1,0 @@
-42 student and full-time restaurant worker, learning the C language and working on programming projects. I'm balancing work and studies, aiming to change my career path and build new skills in tech. Currently focused on projects as I work towards a better future.
